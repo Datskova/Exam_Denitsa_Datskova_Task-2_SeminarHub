@@ -1,0 +1,11 @@
+resource_group_name     = "BazarRGDeni"
+resource_group_location = "North Europe"
+app_service_plan_name   = "BazarServicePlan"
+app_service_name        = "BazarAppDeni"
+sql_server_name         = "bazardenisqlserver"
+sql_database_name       = "bazardenidb"
+sql_user                = "4dm1n157r470r"
+sql_user_pass           = "4-v3ry-53cr37-p455w0rd"
+firewall_rule_name      = "FirewallRule1Deni"
+github_repo             = "https://github.com/Datskova/exam-2-preparation-SofUniBazar"
+# изпълняваме terraform fmt + terraform validate
